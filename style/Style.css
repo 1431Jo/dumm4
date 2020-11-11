@@ -10,12 +10,16 @@ p {
 }
 .firstpic {
     width: 50%;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 6px black;
 }
 .school {
     text-align: center;
 }
 .picschool {
     width: 30%;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 4px black;
 }
 h1 {
     font-size: 40px;
