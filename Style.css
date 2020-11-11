@@ -4,6 +4,12 @@
 p {
     font-size: 30px;
 }
-.erstesBild {
+.firstpic {
     width: 50%;
+}
+.school {
+    text-align: center;
+}
+.picschool {
+    width: 40%;
 }
